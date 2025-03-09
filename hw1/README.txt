@@ -1,4 +1,4 @@
-Use autoencoder to generate the following datasets for different latent dimensions.
+# Use autoencoder to generate the following datasets for different latent dimensions.
 + mnist, latent dim=64, 32, 4
 + fashion mnist, latent dim=64, 32, 4
 
